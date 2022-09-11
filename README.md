@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binmuji
 - 👀 I’m interested in python, data scraping, data visualization & web dev
-- 🌱 I’m currently learning python fundamental
+- 🌱 I’m currently learning python, sql, data analyst & bussines intelligence
 - 💞️ I’m looking to collaborate on python code
 - 📫 How to reach me https://www.linkedin.com/in/kapratama/
 
